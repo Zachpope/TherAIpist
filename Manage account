@@ -1,0 +1,15 @@
+<form action="manage.php" method="post">
+  
+
+  <div class="manage">
+    
+
+    <button type="push">Change Password</button>
+    <label>
+    <button type="prpceed">Back</button>
+    <label>
+    
+  </div>
+
+  
+</form>

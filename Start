@@ -1,0 +1,14 @@
+<form action="action_page.php" method="post">
+  
+
+  <div class="ai">
+    
+
+    <button type="push">Login</button>
+    <label>
+    <button type="prpceed">Register</button>
+    <label>
+  </div>
+
+  
+</form>

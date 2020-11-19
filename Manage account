@@ -1,0 +1,17 @@
+<form action="manage.php" method="post">
+  <div class="container">
+    <h2>Manage Account</h2>
+  </div>
+
+  <div class="manage">
+    
+
+    <button type="push">Change Password</button>
+    <label>
+    <button type="prpceed">Back</button>
+    <label>
+    
+  </div>
+
+  
+</form>

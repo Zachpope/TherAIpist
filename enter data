@@ -1,0 +1,14 @@
+<form action="action_page.php">
+  <div class="container">
+    <h2>Enter Medical History Below</h2>
+  </div>
+
+  <div class="container" style="background-color:white">
+    <input type="text" placeholder="Enter data here" name="data" required>
+    
+  </div>
+
+  <div class="container">
+    <input type="submit" value="Submit and go back">
+  </div>
+</form>

@@ -1,0 +1,15 @@
+<form action="action_page.php">
+  <div class="container">
+    <h2>Medical Data</h2>
+  </div>
+
+  <div class="container">
+    <input type="submit" value="Fillout forms">
+  </div>
+  <div class="container">
+    <input type="submit" value="Enter medical info">
+  </div>
+  <div class="container">
+    <input type="submit" value="Back">
+  </div>
+</form>

@@ -1,5 +1,7 @@
 <form action="manage.php" method="post">
-  
+  <div class="container">
+    <h2>Manage Account</h2>
+  </div>
 
   <div class="manage">
     

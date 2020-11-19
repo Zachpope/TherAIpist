@@ -1,5 +1,7 @@
 <form action="login.php" method="post">
-  
+  <div class="container">
+    <h2>Login</h2>
+  </div>
 
   <div class="container">
     <label for="uname"><b>Username</b></label>
